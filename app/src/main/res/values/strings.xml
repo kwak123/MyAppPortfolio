@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="portfolio_activity_title">My Nanodegree Apps!</string>
+
+    <!-- main menu button titles -->
+    <string name="popular_movies">Popular Movies</string>
+    <string name="stock_hawk">Stock Hawk</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+    <string name="make_app_material">Make Your App Material</string>
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+    <string name="capstone">Capstone</string>
+
+    <!-- toast text -->
+    <string name="default_toast">This will launch my app:\u0020</string>
+
+</resources>
